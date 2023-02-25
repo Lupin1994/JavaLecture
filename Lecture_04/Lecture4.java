@@ -17,7 +17,6 @@
     вектор как стек.
     push(E item)
     pop()
- *
  */
 
 package Lecture_04;
